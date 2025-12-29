@@ -1,0 +1,18 @@
+.env
+__pycache__/
+uploads/
+pdf_reports/
+*.pyc
+
+models/groundingdino_swint_ogc.pth
+models/groundingdino_swint_ogc.pth
+models/groundingdino_swint_ogc.pth
+node_modules/
+models/groundingdino_swint_ogc.pth
+node_modules/
+__pycache__/
+firebase_service_account.json
+models/groundingdino_swint_ogc.pth
+uploads/
+pdf_reports/
+untitled folder/
